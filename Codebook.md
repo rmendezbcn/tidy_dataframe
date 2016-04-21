@@ -25,7 +25,7 @@ Three different datasets were built, each including xx variables corresponding t
 3. A data.table containing the mean value of the measurements for activity and subject.  
 
 ###Variables included in the datasets
-[1] "tBodyAccmeanX"      "tBodyAccmeanY"      "tBodyAccmeanZ"      "tBodyAccstdX"       "tBodyAccstdY"      
+<code>[1] "tBodyAccmeanX"      "tBodyAccmeanY"      "tBodyAccmeanZ"      "tBodyAccstdX"       "tBodyAccstdY"      
 [6] "tBodyAccstdZ"       "tGravityAccmeanX"   "tGravityAccmeanY"   "tGravityAccmeanZ"   "tGravityAccstdX"   
 [11] "tGravityAccstdY"    "tGravityAccstdZ"    "tBodyAccJerkmeanX"  "tBodyAccJerkmeanY"  "tBodyAccJerkmeanZ" 
 [16] "tBodyAccJerkstdX"   "tBodyAccJerkstdY"   "tBodyAccJerkstdZ"   "tBodyGyromeanX"     "tBodyGyromeanY"    
@@ -35,5 +35,5 @@ Three different datasets were built, each including xx variables corresponding t
 [36] "fBodyAccstdZ"       "fBodyAccJerkmeanX"  "fBodyAccJerkmeanY"  "fBodyAccJerkmeanZ"  "fBodyAccJerkstdX"  
 [41] "fBodyAccJerkstdY"   "fBodyAccJerkstdZ"   "fBodyGyromeanX"     "fBodyGyromeanY"     "fBodyGyromeanZ"    
 [46] "fBodyGyrostdX"      "fBodyGyrostdY"      "fBodyGyrostdZ"      "activitycode"       "subjectcode"       
-[51] "dataset"
+[51] "dataset"</code>
 
