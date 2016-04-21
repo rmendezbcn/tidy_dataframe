@@ -23,3 +23,17 @@ Three different datasets were built, each including xx variables corresponding t
 1. A tidy data.table for further analysis.
 2. A data.table containing the mean value of the measurements for dataset (training and test), activity and subject.
 3. A data.table containing the mean value of the measurements for activity and subject.  
+
+###Variables included in the datasets
+<code>[1] "tBodyAccmeanX"      "tBodyAccmeanY"      "tBodyAccmeanZ"      "tBodyAccstdX"       "tBodyAccstdY"      
+[6] "tBodyAccstdZ"       "tGravityAccmeanX"   "tGravityAccmeanY"   "tGravityAccmeanZ"   "tGravityAccstdX"   
+[11] "tGravityAccstdY"    "tGravityAccstdZ"    "tBodyAccJerkmeanX"  "tBodyAccJerkmeanY"  "tBodyAccJerkmeanZ" 
+[16] "tBodyAccJerkstdX"   "tBodyAccJerkstdY"   "tBodyAccJerkstdZ"   "tBodyGyromeanX"     "tBodyGyromeanY"    
+[21] "tBodyGyromeanZ"     "tBodyGyrostdX"      "tBodyGyrostdY"      "tBodyGyrostdZ"      "tBodyGyroJerkmeanX"
+[26] "tBodyGyroJerkmeanY" "tBodyGyroJerkmeanZ" "tBodyGyroJerkstdX"  "tBodyGyroJerkstdY"  "tBodyGyroJerkstdZ" 
+[31] "fBodyAccmeanX"      "fBodyAccmeanY"      "fBodyAccmeanZ"      "fBodyAccstdX"       "fBodyAccstdY"      
+[36] "fBodyAccstdZ"       "fBodyAccJerkmeanX"  "fBodyAccJerkmeanY"  "fBodyAccJerkmeanZ"  "fBodyAccJerkstdX"  
+[41] "fBodyAccJerkstdY"   "fBodyAccJerkstdZ"   "fBodyGyromeanX"     "fBodyGyromeanY"     "fBodyGyromeanZ"    
+[46] "fBodyGyrostdX"      "fBodyGyrostdY"      "fBodyGyrostdZ"      "activitycode"       "subjectcode"       
+[51] "dataset" </code>
+
